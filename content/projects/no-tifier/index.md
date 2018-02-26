@@ -4,7 +4,7 @@ description: Isn't it time to listen to a small rectangle?
 tags:
  - tag: hardware
    link: #
- - tag: stupid
+ - tag: stupid hackathon
    link: http://stupidhackathon.github.io
 date: 2017-05-10
 year: 2017

@@ -3,12 +3,12 @@ title: Miscellaneous academic projects
 description: Recursive augmented reality, underwater gliders, and an autonomous robot.
 tags:
  - tag: image processing
-   link: #
+   link: /projects/computational-photography
  - tag: fpga
    link: https://github.com/loganwilliams/augmented-reality-on-fpga
  - tag: hardware
-   link: #
-year: 2013
+   link: http://exclav.es/2016/10/26/talkin-ir/
+year: 2011-2013
 date: 2013-04-20 
 ---
 

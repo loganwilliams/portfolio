@@ -3,9 +3,9 @@ title: As Though I Were There
 description: What topographic ritual summons city from chaparral?
 tags:
  - tag: poetry
-   link: #
+   link: https://twitter.com/ConceptNetPoet
  - tag: land
-   link: #
+   link: http://exclav.es/2016/12/17/noaa-frisco-bay-tides/
  - tag: maps
    link: /projects/what-i-ate/
 date: 2017-03-20

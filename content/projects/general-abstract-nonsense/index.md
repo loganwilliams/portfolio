@@ -5,11 +5,11 @@ date: 2014-01-01
 year: 2014
 tags:
  - tag: writing
-   link: #
+   link: https://medium.com/@boundaryconditions/september-28-to-29-this-is-what-democracy-looks-like-e25cd776012
  - tag: radio
-   link: #
+   link: http://exclav.es/2016/09/28/debate-regendering/
  - tag: audio
-   link: #
+   link: https://soundcloud.com/bahro
 ---
 
 <p>Briefly, my previously low-maintenance, music-based radio show (on the one and only <a href="http://wmbr.org">WMBR Cambridge 88.1 FM</a>) became a project about musically-integrated story sharing. While most of these shows have disappeared into the ether like some a frequency-modulated sand mandala, I recently discovered a handful on an personal digital archeaology excavation.</p>

@@ -3,11 +3,11 @@ title: San Francisco language dot maps
 description: Understanding the linguistic diversity of San Francisco.
 tags:
     - tag: maps
-      link: #
+      link: http://fog.today/
     - tag: land
-      link: #
+      link: http://intermittent.stream/sf/
     - tag: python
-      link: # 
+      link: https://github.com/loganwilliams/
 date: 2015-03-01
 year: 2015
 ---

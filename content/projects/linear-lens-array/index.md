@@ -5,7 +5,7 @@ tags:
  - tag: image processing
    link: /projects/computational-photography/
  - tag: photography
-   link: #
+   link: /projects/isometric-spacelapse/
  - tag: python
    link: https://github.com/loganwilliams/linear-lens-array
 date: 2013-08-20

@@ -4,9 +4,9 @@ description: A julia library for multiscale pyramidal image decomposition, and a
 externalURL: http://exclav.es/2016/07/15/phase-based-interpolation/
 tags:
  - tag: image processing
-   link: #
+   link: http://exclav.es/2016/07/04/near-duplicate-detection-wavelets/
  - tag: photography
-   link: #
+   link: /projects/linear-lens-arrays/
  - tag: julia
    link: https://github.com/loganwilliams/Pyramids.jl
 date: 2016-07-15
