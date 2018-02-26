@@ -12,4 +12,5 @@ tags:
    link: #
  - tag: python
    link: #
+externalURL: https://twitter.com/ConceptNetPoet
 ---
