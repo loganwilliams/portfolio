@@ -1,7 +1,5 @@
-<div class="item">
-
-  <div class="background" style='background-color: rgba({{ delimit (first 3 (shuffle (seq 0 150))) ", " }},0.3);'></div>
-
+<div class="card{{if .Params.featured}} featured{{end}}">
+  <div class="background" style='background-color: #eee;'></div>
   {{ with .Resources.Match "background*" }}
     {{ range . }}
         <div class="background" style="background-image: url({{ .RelPermalink }})"></div>

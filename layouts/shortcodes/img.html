@@ -5,12 +5,18 @@
 		{{ $imgLg := $.Page.Resources.GetMatch (.Get "a")}}
 		<a href="{{$imgLg.RelPermalink }}">
 	{{ end }}
+	{{ if isset .Params "caption" }}
 	{{ with (.Get "caption") }}
 		<img src="{{ $img.RelPermalink }}" alt="{{ . }}"/>
-    {{ end}}
+    {{ end }}
+    {{ else }}
+    	<img src="{{ $img.RelPermalink }}" />
+    {{ end }}
     {{ if isset .Params "a" }}
 		</a>
 	{{ end }}
-	
+
+	{{ if isset .Params "caption" }}
     <figcaption>{{ (.Get "caption") }}</figcaption>
+	{{ end }}
 </figure>
