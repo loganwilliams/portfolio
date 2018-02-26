@@ -2,12 +2,12 @@
 "title": "Isometric Spacelapse",
 "description": "By transposing the axes of time and image-space position, unusual aerial viewpoints can be generated.",
 "tags": [ 
-	{"tag": "land", "link": "#"},
-	{"tag": "video", "link": "#"},
-	{"tag": "golang", "link": "#"},
-	{"tag": "julia", "link": "#"} ],
+	{"tag": "land", "link": "http://intermittent.stream/"},
+	{"tag": "video", "link": "https://vimeo.com/232258320"},
+	{"tag": "julia", "link": "http://exclav.es/2016/07/15/phase-based-interpolation/"} ],
 "date": "2018-02-10",
-"year": "2018"
+"year": "2018",
+"featured": true
 }
 
 <p>By transposing the axes of time and image-space position, unusual aerial viewpoints can be generated. In these videos, all rays intersect the horizontal plane at the same angle and all objects are rendered at the same scale.</p>

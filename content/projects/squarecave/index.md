@@ -5,9 +5,9 @@ tags:
  - tag: audio
    link: https://soundcloud.com/bahro
  - tag: synthesizers
-   link: #
+   link: /projects/transdomain-feedback
  - tag: hardware
-   link: #
+   link: https://github.com/loganwilliams/thermografree
 date: 2009-05-05
 year: 2009
 ---

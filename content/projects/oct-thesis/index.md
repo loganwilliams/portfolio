@@ -5,11 +5,11 @@ tags:
  - tag: thesis
    link: https://dspace.mit.edu/handle/1721.1/92090
  - tag: photography
-   link: #
- - tag: electronics
-   link: #
+   link: https://github.com/loganwilliams/thermografree
+ - tag: hardware
+   link: http://exclav.es/2016/10/26/talkin-ir/
  - tag: python
-   link: #
+   link: https://github.com
 date: 2014-05-20
 year: 2014
 ---

@@ -5,11 +5,9 @@ tags:
  - tag: photography
    link: https://missionlocal.org/2015/07/good-morning-mission-to-shadows/
  - tag: land
-   link: #
- - tag: 2014-2017
-   link: /2014
+   link: http://intermittent.stream/aerial/
 date: 2018-01-20
-year: 2018
+year: 2014-2018
 ---
 
 <div class="gallery large">

@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+<main>
+  <header class="header">
+    <h1>{{.Title}} — 2017</h1>
+    <div class="tags"><a href="https://twitter.com/obtusatum">twitter</a>, <a href="https://github.com/loganwilliams">github</a>, <a href="/resume.pdf">resume</a>, <a href="http://exclav.es">blog</a>, <a href="mailto:logan.williams@alum.mit.edu">email</a></div>
+  </header>
+
+  <div class="cards">
+  {{ range where (where .Data.Pages "Section" "projects" ) ".Params.featured" "==" true }}
+    {{ partial "card.html" . }}
+  {{ end }}
+
+  {{ range where (where (where .Data.Pages "Section" "projects" ) ".Params.featured" "!=" true) ".Params.hide" "!=" true }}
+    {{ partial "card.html" . }}
+  {{ end }}
+  </div>
+
+</main>
+
+{{ partial "footer.html" . }}

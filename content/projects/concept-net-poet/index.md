@@ -5,12 +5,12 @@ date: 2018-02-05
 year: 2018
 tags:
  - tag: poem
-   link: #
+   link: http://exclav.es/2014/10/29/poems-from-spam/
  - tag: nlp
-   link: #
+   link: http://vignette.cool/2017/06/05/conversation-in-action.html
  - tag: bot
-   link: #
+   link: https://www.buzzfeed.com/loganwilliams/this-robot-wants-to-talk-about-the-last-photo-you-took
  - tag: python
-   link: #
+   link: https://github.com/loganwilliams
 externalURL: https://twitter.com/ConceptNetPoet
 ---

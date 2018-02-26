@@ -6,11 +6,11 @@ tags:
  - tag: video
    link: https://vimeo.com/232258320
  - tag: maps
-   link: #
- - tag: photography
-   link: #
+   link: http://intermittent.stream
+ - tag: land
+   link: http://exclav.es/2016/05/20/sexy-maps/
  - tag: python
-   link: #
+   link: https://www.buzzfeed.com/loganwilliams/looking-in-new-directions-with-google-street-view
 date: 2017-10-18
 year: 2017
 ---

@@ -18,7 +18,7 @@
     {{ range $index, $element := $list }}
       <a href="{{.link}}">{{ .tag }}</a>,
     {{ end }}
-    <a href="{{.Params.year}}">{{.Params.year}}</a>
+    {{.Params.year}}
     </div>
     <div class="description">{{.Description}}</div>
   </div>
