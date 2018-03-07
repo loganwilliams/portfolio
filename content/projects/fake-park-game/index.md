@@ -4,7 +4,8 @@
 "tags": [ 
 	{"tag": "interactive", "link": "http://vignette.cool/blog/"},
 	{"tag": "land", "link": "http://exclav.es/2016/07/03/foraging/"},
-	{"tag": "civic", "link": "http://exclav.es/2017/08/08/24-hours-of-muni/"} ],
+	{"tag": "civic", "link": "http://exclav.es/2017/08/08/24-hours-of-muni/"},
+	{"tag": "js", "link": "https://github.com/loganwilliams/do-you-know-your-parks"} ],
 "date": "2018-02-20",
 "externalURL":"/projects-static/parks-game",
 "backgroundimage": "/background/parks.png",
