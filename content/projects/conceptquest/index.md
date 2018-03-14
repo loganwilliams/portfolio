@@ -10,5 +10,5 @@ tags:
    link: https://github.com/loganwilliams/conceptquest
 date: 2018-03-14
 year: 2018
-externalURL: /projects-static/conceptquest
+externalURL: http://subject.space/projects-static/conceptquest
 ---
