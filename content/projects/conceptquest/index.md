@@ -1,6 +1,6 @@
 ---
 title: Conceptquest
-description: "An interactive hypertext game based on the strange and wonderful world of the ConceptNet. Warning: unfiltered crowdsourced content."
+description: "An interactive hypertext game based on the strange and surprising world of the ConceptNet. Warning: unfiltered crowdsourced content."
 tags:
  - tag: interactive
    link: http://subject.space/projects-static/parks-game/
