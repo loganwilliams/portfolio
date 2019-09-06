@@ -1,6 +1,6 @@
 ---
 title: "Carbon footprint modeling maps"
-description: The impact of wealth and land-use on carbon footprints, exposed using satellite imagery and data from the CoolClimate Network at UC Berkely.
+description: The impact of wealth and land use on carbon footprints, exposed using satellite imagery and data from the CoolClimate Network at UC Berkeley.
 date: 2019-06-03
 year: 2019
 tags:
