@@ -80,8 +80,8 @@
     step-credit="Carle, D. <em>Introduction to Water in California</em>. (2004)"
   >
     <p>
-      Imagine 100. Imagine watching the changes that now we can only read about
-      manifest at landscape-scale. Imagine watching the yearly exhalation of
+      Imagine 100. Imagine watching landscape-scale changes manifest, the ones we can only
+      read about now. Imagine watching the yearly exhalation of
       Sierra-fed wetlands cease.
     </p>
   </div>
@@ -139,7 +139,7 @@
     </p>
     <p>
       To know that ducks over the Central Valley could blot out the sky at
-      sunset; to learn that insect have lost 70% of their population; to hear of cities
+      sunset; to learn that insects have lost 70% of their population; to hear of cities
     that were meadows not 100 years ago but 40 years ago; to imagine bears
       roaming the grasslands off that sick joke, Grizzly Peak.
     </p>
