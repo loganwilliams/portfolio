@@ -2,12 +2,13 @@
 title: Points West
 description: Selected photography.
 tags:
- - tag: photography
-   link: https://missionlocal.org/2015/07/good-morning-mission-to-shadows/
- - tag: land
-   link: http://intermittent.stream/aerial/
-date: 2018-01-20
-year: 2014-2018
+  - tag: photography
+    link: https://missionlocal.org/2015/07/good-morning-mission-to-shadows/
+  - tag: land
+    link: http://intermittent.stream/aerial/
+date: 2019-01-20
+year: 2014-2019
+featured: true
 ---
 
 <div class="gallery large">
