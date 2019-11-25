@@ -1,6 +1,6 @@
 {
 "title": "glenecho.stream",
-"description": "Points of view on an urban stream. Wildlife photography and data-collection-as-practice.",
+"description": "Points of view on an urban stream. Wildlife photography, citizen science, and data-collection-as-practice.",
 "tags": [
 {"tag": "environment", "link": "http://subject.space/projects/isometric-spacelapse/"},
 {"tag": "scrollytelling", "link": "http://subject.space/projects-static/cadiz/"},
