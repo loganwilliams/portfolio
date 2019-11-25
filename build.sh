@@ -6,7 +6,7 @@ git commit -m "$1"
 git push origin master
 
 # build hugo
-hugo
+hugo --baseURL http://subject.space
 
 # get last commit hash
 lasthash=$(git show -s --format=%h)
