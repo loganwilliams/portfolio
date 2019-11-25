@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="/css/scrolly.css" />
     {{ end }}
 
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@obtusatum" />
     <meta name="twitter:creator" content="@obtusatum" />
     <meta property="og:url" content="{{ .Permalink }}" />
@@ -36,7 +36,7 @@
       content="Bits and pieces from Logan Williams."
     />
     {{ end }} {{ with .Resources.Match "background*" }} {{ range . }}
-    <meta property="og:image" content="{{ .RelPermalink }}" />
+    <meta property="og:image" content="{{ .Permalink }}" />
     {{ end }} {{ end }}
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
