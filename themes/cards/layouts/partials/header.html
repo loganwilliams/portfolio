@@ -19,6 +19,25 @@
     <link rel="stylesheet" href="/css/scrolly.css" />
     {{ end }}
 
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@obtusatum" />
+    <meta name="twitter:creator" content="@obtusatum" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta
+      property="og:title"
+      content="{{.Site.Title}}{{if (not (eq .Site.Title .Title))}} — {{.Title}}{{end}}"
+    />
+    {{ if (isset) .Description }}
+    <meta property="og:description" content="{{ .Description }} " />
+    {{ else }}
+    <meta
+      property="og:description"
+      content="Bits and pieces from Logan Williams."
+    />
+    {{ end }} {{ with .Resources.Match "background*" }} {{ range . }}
+    <meta property="og:image" content="{{ .RelPermalink }}" />
+    {{ end }} {{ end }}
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script
       async
