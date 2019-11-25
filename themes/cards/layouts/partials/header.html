@@ -23,11 +23,12 @@
     <meta name="twitter:site" content="@obtusatum" />
     <meta name="twitter:creator" content="@obtusatum" />
     <meta property="og:url" content="{{ .Permalink }}" />
-    <meta
-      property="og:title"
-      content="{{.Site.Title}}{{if (not (eq .Site.Title .Title))}} — {{.Title}}{{end}}"
-    />
-    {{ if (isset) .Description }}
+
+    {{if (not (eq .Site.Title .Title))}}
+    <meta property="og:title" content="{{.Title}}" />
+    {{ else }}
+    <meta property="og:title" content="subject.space" />
+    {{end}} {{ if .Description }}
     <meta property="og:description" content="{{ .Description }} " />
     {{ else }}
     <meta
