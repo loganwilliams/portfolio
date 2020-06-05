@@ -5,7 +5,9 @@ tags:
   - tag: photography
     link: https://missionlocal.org/2015/07/good-morning-mission-to-shadows/
   - tag: land
-    link: http://intermittent.stream/aerial/
+    link: https://subject.space/projects-static/aerial-street/
+  - tag: keyword
+    link: http://exclav.es/2020/06/05/keywords/
 date: 2019-01-20
 year: 2014-2019
 featured: true
