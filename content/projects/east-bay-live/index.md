@@ -10,4 +10,5 @@ tags:
     link: http://github.com/loganwilliams/ebrcs
   - tag: public data
     link: http://exclav.es/2017/08/08/24-hours-of-muni/
+externalURL: http://ebrcs.live
 ---
