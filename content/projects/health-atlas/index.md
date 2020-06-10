@@ -1,6 +1,6 @@
 ---
 title: "Stamen: UCSF Health Atlas"
-description: Health Atlas is a geospatial explorer for neighborhood-level health characteristics data developed for the UCSF School of Medicine Dean’s Office of Population Health and Health Equity.
+description: A geospatial explorer of neighborhood-level health characteristics data developed created for the UCSF School of Medicine Dean’s Office of Population Health and Health Equity.
 date: 2020-04-15
 year: 2020
 tags:
