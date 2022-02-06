@@ -22,7 +22,9 @@
 
 <p><iframe width="640" height="360" src="https://www.youtube.com/embed/X2HAYaPdhWI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<p>The C++ OpenFrameworks application I developed to render these videos is <a href="https://github.com/loganwilliams/spacelapser">also open source and available on GitHub.</a></p>
+<p><img src="./gui.gif" alt="An animated GIF of the user interface for an application that manipulates video" /></p>
+
+<p><a href="https://github.com/loganwilliams/spacelapser/releases/tag/v0.1.2">Download the Mac OS application</a> developed during my residency at <a href="https://signalculture.org/">Signal Culture</a>. It is developed in C++ with OpenFrameworks and is <a href="https://github.com/loganwilliams/spacelapser">open source on GitHub.</a> In theory it is also compatible with Linux and Windows.</p>
 
 <p><iframe src="https://player.vimeo.com/video/268446712?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
