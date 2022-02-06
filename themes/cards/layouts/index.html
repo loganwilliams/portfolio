@@ -7,11 +7,11 @@
   </header>
 
   <div class="cards">
-  {{ range where (where .Data.Pages "Section" "projects" ) ".Params.featured" "==" true }}
+  {{ range where (where .Site.RegularPages "Section" "projects" ) ".Params.featured" "==" true }}
     {{ partial "card.html" . }}
   {{ end }}
 
-  {{ range where (where (where .Data.Pages "Section" "projects" ) ".Params.featured" "!=" true) ".Params.hide" "!=" true }}
+  {{ range where (where (where .Site.RegularPages "Section" "projects" ) ".Params.featured" "!=" true) ".Params.hide" "!=" true }}
     {{ partial "card.html" . }}
   {{ end }}
   </div>
