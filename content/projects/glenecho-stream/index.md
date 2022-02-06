@@ -284,4 +284,3 @@
 </div>
 
 <script src="./viz.js"></script>
-<script src="./scrolly.js"></script>
