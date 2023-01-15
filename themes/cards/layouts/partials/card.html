@@ -10,7 +10,7 @@
     {{ if (isset .Params "externalurl") }}
       <div class="title"><a href="{{.Params.externalurl}}">{{.Title}}</a></div>
     {{ else }}
-      <div class="title"><a href="{{.URL}}">{{.Title}}</a></div>
+      <div class="title"><a href="{{.Permalink}}">{{.Title}}</a></div>
     {{ end }}
     <div class="tags">
     {{ $list := (.Params.tags) }}

@@ -10,7 +10,7 @@ tags:
     link: http://exclav.es/2020/06/05/keywords/
 date: 2019-01-20
 year: 2014-2019
-featured: true
+featured: false
 ---
 
 <div class="gallery large">

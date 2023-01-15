@@ -13,5 +13,5 @@ tags:
     link: https://www.buzzfeed.com/loganwilliams/looking-in-new-directions-with-google-street-view
 date: 2017-10-18
 year: 2017
-featured: true
+featured: false
 ---

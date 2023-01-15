@@ -13,5 +13,5 @@ tags:
   - tag: python
     link: https://github.com/loganwilliams
 externalURL: https://twitter.com/ConceptNetPoet
-featured: true
+featured: false
 ---
