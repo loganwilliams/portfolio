@@ -12,6 +12,8 @@ tags:
     link: https://www.buzzfeed.com/loganwilliams/this-robot-wants-to-talk-about-the-last-photo-you-took
   - tag: python
     link: https://github.com/loganwilliams
-externalURL: https://twitter.com/ConceptNetPoet
+  - tag: twitter
+    link: https://twitter.com/conceptnetpoet
+externalURL: https://botsin.space/@ConceptNetPoet
 featured: false
 ---
