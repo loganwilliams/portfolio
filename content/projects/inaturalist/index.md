@@ -6,7 +6,7 @@ year: 2023
 tags:
  - tag: blog
    link: https://exclav.es/2023/03/22/inaturalist-observations-locals-and-tourists/
- - tag: map
+ - tag: maps
    link: https://exclav.es/2023/03/26/flooding-in-tulare-lake-basin/
  - tag: news
    link: https://www.mercurynews.com/2023/04/06/mapped-most-popular-spots-for-nature-photography-in-the-bay-area/
