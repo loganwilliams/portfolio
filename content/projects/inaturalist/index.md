@@ -1,6 +1,6 @@
 ---
 title: "iNaturalist \"Locals\" and \"Tourists\""
-description: Cartographic visualization of psycogeographic patterns in citizen science on iNaturalist.
+description: Cartographic visualization of psychogeographic patterns in citizen science on iNaturalist.
 date: 2023-03-22
 year: 2023
 tags:
