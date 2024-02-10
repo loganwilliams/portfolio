@@ -4,7 +4,7 @@
 "tags": [ 
 	{"tag": "land", "link": "http://intermittent.stream/"},
 	{"tag": "video", "link": "https://vimeo.com/232258320"},
-	{"tag": "presentation", "link": "https://www.youtube.com/watch?v=X2HAYaPdhWI"},
+	{"tag": "conference-talk", "link": "https://www.youtube.com/watch?v=X2HAYaPdhWI"},
 	{"tag": "c++", "link": "https://github.com/loganwilliams/spacelapser"},
 	{"tag": "julia", "link": "http://exclav.es/2016/07/15/phase-based-interpolation/"} ],
 "date": "2018-02-10",
