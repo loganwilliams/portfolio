@@ -1,6 +1,6 @@
 ---
 title: "Bellingcat: OSM Search"
-description: A user-friendly search engine for Open Street Map to assist geospatial research.
+description: A guided search engine for Open Street Map to assist geospatial research.
 date: 2023-05-03
 year: 2023
 tags:
