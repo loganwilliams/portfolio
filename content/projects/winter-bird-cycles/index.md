@@ -8,6 +8,8 @@ tags:
    link: https://exclav.es/2022/12/17/building-a-terrarium-for-the-orchids/
  - tag: ecology
    link: http://subject.space/projects/glenecho-stream/
+ - tag: surveillance
+   link: https://botsin.space/@CALandscapeBot
  - tag: dataviz
    link: https://subject.space/projects-static/climate-map/
  - tag: d3
