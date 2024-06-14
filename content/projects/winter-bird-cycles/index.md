@@ -10,8 +10,8 @@ tags:
    link: http://subject.space/projects/glenecho-stream/
  - tag: surveillance
    link: https://botsin.space/@CALandscapeBot
- - tag: dataviz
-   link: https://subject.space/projects-static/climate-map/
+ - tag: exhibition
+   link: https://exclav.es/2024/06/13/bird-cycles-at-mozfest/
  - tag: d3
    link: https://observablehq.com/d/68b9f5e64e0943ae
 externalURL: https://subject.space/projects-static/winter-bird-cycles
