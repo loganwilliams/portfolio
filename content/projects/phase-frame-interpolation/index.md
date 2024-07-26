@@ -1,6 +1,6 @@
 ---
 title: Phase-based frame interpolation
-description: A julia library for multiscale pyramidal image decomposition, and an application to frame interpolation.
+description: A Julia library for multiscale pyramidal image decomposition, and an application to frame interpolation.
 externalURL: http://exclav.es/2016/07/15/phase-based-interpolation/
 tags:
  - tag: image processing
