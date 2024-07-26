@@ -11,4 +11,5 @@ tags:
    link: https://gagosian.com/news/2020/10/06/12-sunsets-exploring-ed-ruscha-archive-getty-research-institute-interactive-website/
  - tag: semantics
    link: http://subject.space/projects-static/caption-obscura/
+featured: true
 ---
