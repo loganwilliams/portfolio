@@ -5,7 +5,9 @@ tags:
  - tag: environment
    link: https://subject.space/projects/glenecho-stream/
  - tag: birds
-   link: https://subject.space/projects-static/winter-bird-cycles/
+   link: https://exclav.es/2024/06/02/trip-report-jamaica-birdwatching-music-and-hiking/
+ - tag: citizen science
+   link: https://exclav.es/2023/03/22/inaturalist-observations-locals-and-tourists/
  - tag: shaders
    link: https://exclav.es/2024/11/22/making-a-map-of-11145-birds/ 
 date: 2025-05-04
