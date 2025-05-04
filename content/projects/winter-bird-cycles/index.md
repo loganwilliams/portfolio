@@ -9,7 +9,7 @@ tags:
  - tag: ecology
    link: http://subject.space/projects/glenecho-stream/
  - tag: surveillance
-   link: https://botsin.space/@CALandscapeBot
+   link: https://bsky.app/profile/calandscapebot.bsky.social
  - tag: exhibition
    link: https://exclav.es/2024/06/13/bird-cycles-at-mozfest/
  - tag: d3
