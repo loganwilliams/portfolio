@@ -2,6 +2,8 @@
 title: Who Birds With You?
 description: A map of 300,000 global birders interconnected by 43 million shared eBird checklists.
 tags:
+ - tag: social
+   link: https://observatory.subject.space/
  - tag: environment
    link: https://exclav.es/2025/08/23/dinacon-2025-photos-and-observations/
  - tag: birds
