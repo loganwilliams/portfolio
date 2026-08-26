@@ -15,5 +15,5 @@ tags:
  - tag: d3
    link: https://observablehq.com/d/68b9f5e64e0943ae
 externalURL: https://subject.space/projects-static/winter-bird-cycles
-featured: false
+featured: true
 ---

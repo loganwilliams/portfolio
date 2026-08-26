@@ -11,5 +11,5 @@ tags:
  - tag: twitter
    link: https://botsin.space/@ConceptNetPoet
 externalURL: https://observatory.subject.space/
-featured: false
+featured: true
 ---

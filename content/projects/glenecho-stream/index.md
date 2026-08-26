@@ -9,7 +9,7 @@
 {"tag": "go", "link": "http://github.com/loganwilliams/glenecho"} ],
 "date": "2019-09-10",
 "year": "2019",
-"featured": true,
+"featured": false,
 "scrolly": true
 }
 
